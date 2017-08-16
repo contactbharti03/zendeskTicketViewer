@@ -1,0 +1,9 @@
+*.log
+*.class
+*.jar
+.settings/
+target/
+.project
+.classpath
+MANIFEST.MF
+context.xml
